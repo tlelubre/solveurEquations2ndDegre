@@ -10,7 +10,7 @@ Le module sys a été utilisé pour récupérer les arguments du programme, et l
 
 Le projet se constitue :
 
--d'un fichier de fonctions ("functions.py") permettant la manipulation de la chaîne de caractère contenant l'équation ainsi que des fonctions de calcul pour les résultats de cette équation.
+-d'un fichier de fonctions (functions.py) permettant la manipulation de la chaîne de caractère contenant l'équation ainsi que des fonctions de calcul pour les résultats de cette équation.
 
 
 

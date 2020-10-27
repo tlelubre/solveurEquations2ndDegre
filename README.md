@@ -9,5 +9,11 @@ De plus, certains cas particuliers ne sont pas encore gérés. (ensemble de solu
 Le projet se constitue :
 
 -d'un fichier de fonctions ("functions.py") permettant la manipulation de la chaîne de caractère contenant l'équation ainsi que des fonctions de calcul pour les résultats de cette équation.
+
+
+
 -d'un fichier principal appelant les fonctions et retournant le résultat de l'équation. (resolveurEquationsSimples.py)
+
+
+
 -d'un fichier contenant les tests des différentes fonctions. (tests.py)

@@ -4,6 +4,7 @@ Un projet réalisé en python, dont le but est de créer un programme qui résou
 Pour l'utiliser, il faut appeler resolveurEquationsSimples.py en ligne de commande en lui fournissant en paramètre l'équation à résoudre sous forme de chaîne de caractères.
 L'équation doit posséder une syntaxe du genre : "nb1 * X^2 + nb2 * X + nb3 = nb4 * X^2 + nb5 * X + nb6". (Les erreurs de saisies n'ont pas encore été gérées dans ce projet, il est donc important que, par exemple, les "X" soient en majuscule ou qu'il y ait des espaces entre les opérandes)
 
+De plus, certains cas particuliers ne sont pas encore gérés. (ensemble de solution = R par exemple)
 
 Le projet se constitue :
 

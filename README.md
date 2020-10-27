@@ -6,6 +6,8 @@ L'équation doit posséder une syntaxe du genre : "nb1 * X^2 + nb2 * X + nb3 = n
 
 De plus, certains cas particuliers ne sont pas encore gérés. (ensemble de solution = R par exemple)
 
+Le module sys a été utilisé pour récupérer les arguments du programme, et le module math a été utilisé pour calculer des racines carrées. Aucune autre utilisation d'une fonction appartenant à ces modules n'était permise, et ces modules sont les seuls qui ont éts authorisés.
+
 Le projet se constitue :
 
 -d'un fichier de fonctions ("functions.py") permettant la manipulation de la chaîne de caractère contenant l'équation ainsi que des fonctions de calcul pour les résultats de cette équation.

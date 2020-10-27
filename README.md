@@ -14,7 +14,7 @@ Le projet se constitue :
 
 
 
--d'un fichier principal appelant les fonctions et retournant le résultat de l'équation. (resolveurEquationsSimples.py)
+-d'un fichier principal appelant les fonctions et affichant le résultat de l'équation. (resolveurEquationsSimples.py)
 
 
 
